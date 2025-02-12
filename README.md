@@ -1,8 +1,36 @@
-# React + Vite
+📚 Responsive Education Website :
+    A fully responsive education-based website built using React, 
+    CSS, and JavaScript, designed for an engaging
+    and seamless user experience across all devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features :
+-Fully Responsive Design – Works perfectly on all screen sizes.
+-Modern UI/UX – Clean and engaging interface.
+-Interactive Testimonials – Smooth sliding user feedback section.
+-Embedded Video Player – Watch videos directly on the website.
+-Dynamic Components – Modular React components for reusability.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Technologies Used : 
+-React.js – Frontend library
+-CSS3 – Styling
+-JavaScript (ES6+) – Functionality
+-Vercel – Deployment platform
+
+
+
+🔗 Live Demo :
+👉 [Add Vercel Link Here]
+
+📂 Installation & Setup : 
+1. Clone the repository:git clone [Your GitHub Repo URL]
+2. cd edusity
+3. Install dependencies:npm install
+4. Start the development server: npm run dev
+
+
+
+
+📧 Contact
+For any queries or suggestions, reach out to me on LinkedIn .
+
