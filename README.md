@@ -20,10 +20,10 @@
 
 
 🔗 Live Demo :
-👉 [Add Vercel Link Here]
+👉 https://edusity-website-kappa.vercel.app/
 
 📂 Installation & Setup : 
-1. Clone the repository:git clone [Your GitHub Repo URL]
+1. Clone the repository:git clone https://github.com/aryandumale04/edusityWebsite.git
 2. cd edusity
 3. Install dependencies:npm install
 4. Start the development server: npm run dev
